@@ -5,7 +5,7 @@ A Restaurant Menu card in a 3d vision. Giving out more detail to the food item t
 # Features in the project
 
 We can interact in the app with our finger. Rotate the object and you can find the object in another angle. 
-<br><img src="app.gif" />
+![Crazy Restaurant Menu](demo/app.gif)
 
 
 
